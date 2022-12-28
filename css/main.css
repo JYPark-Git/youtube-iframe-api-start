@@ -11,16 +11,16 @@ table {border-collapse: collapse;border-spacing: 0;}
 section.youtube-video{
   margin-top:15vh;
   position:relative;
-  height:350px;
+  height:250px;
   background-color:#e6e6e6;
 }
 .wrapper {
   position:absolute;
   left:50%;
-  margin-left:calc(480px / -2);
+  margin-left:calc(360px / -2);
   top:50%;
-  margin-top:calc(480px * 9 / 16 / -2);
-  width:480px;
+  margin-top:calc(360px * 9 / 16 / -2);
+  width:360px;
 }
 .wrapper::before{
   content:'';
